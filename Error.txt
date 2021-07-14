@@ -1,0 +1,9 @@
+APLICATIVOS
+kf host
+sam firm
+odin
+
+TIPOS DE ERROS
+falta da instalacao .Net c++ para rodar odin/samfirm
+desbloquear alguma etapa da samsung
+versao do odin esta ruim
